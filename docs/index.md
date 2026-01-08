@@ -1,7 +1,7 @@
-# My Game
+# Block Party
 
-Small description about my game.
+A tutorial game that teaches animation, movement, destruction and placement.
 
 [Play the Game →](play.html)
 
-Let me know what you think of my game.
+Let me know what you think of the game and tutorial.
